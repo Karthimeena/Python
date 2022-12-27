@@ -1,4 +1,7 @@
 # Python
-This is my first ever project in python
-for this OCR reading i have used sample cheque reading for this project
-i used open-cv, numpy libraries to process the OCR reading
+# used sample cheque reading for this project
+# open-cv, numpy, cv2, Image, UUID, os and pytesseract libraries used to process the OCR reading
+# pytesseract engine used to convert from image file to string 
+# used adaptive thresholding method to process the file
+# language english and MCR used to read the cheque details
+# Regex is mainly helped here to read cheque details 
